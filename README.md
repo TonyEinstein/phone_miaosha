@@ -1,5 +1,5 @@
 # phone_misaosha
-手机商城商品秒杀
+蓝厂手机商城商品秒杀
 <p align="center">
    <img alt="Python 3.7" src="https://img.shields.io/badge/python-3.7-green.svg?style=plastic">
   <img alt="selenium" src="https://img.shields.io/badge/selenium-green.svg?style=plastic">
